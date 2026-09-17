@@ -1,54 +1,64 @@
 {
   "licenses": [
     {
-      "key": "HMH-SZ23L-HDUQR-YHHMC",
+      "key": "HMH-5NN2G-2OD27-1PC7V",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-YT1WA-EXRHN-H8R87",
+      "key": "HMH-78ASM-ZCQZX-FFB80",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-DVNY9-3C84T-CRFEH",
+      "key": "HMH-GHY81-P7OD9-MQG66",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-5I28G-E4UDI-DF8VT",
+      "key": "HMH-7HJSQ-FT65T-31Y8B",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-3IQI6-YVSFX-QNCFM",
+      "key": "HMH-86UAP-U4F9B-T5XDM",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-XKW2V-RD4S0-E0S1R",
+      "key": "HMH-26IOD-M44KW-993S7",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-2G3AL-CC0MX-SKLC2",
+      "key": "HMH-W0REN-M4B6J-E2XW6",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-HDUQ2-X9TD6-H2JTP",
+      "key": "HMH-3OILU-5IRL3-BIQW9",
       "status": "active",
-      "expires": "2027-12-31"
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-AG0CB-JEEOO-LWU8O",
-      "status": "actived",
-      "expires": "2027-12-31"
+      "key": "HMH-5IGYW-5UH3N-209CC",
+      "status": "active",
+      "expires": "2027-12-31",
+      "device_id": ""
     },
     {
-      "key": "HMH-KE4RP-NP1VJ-VGRKK",
-      "status": "actived",
-      "expires": "2025-12-31"
+      "key": "HMH-FSOR7-MLR2D-5DX3Y",
+      "status": "active",
+      "expires": "2027-12-31",
+      "device_id": ""
     }
   ]
 }
