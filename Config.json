@@ -1,4 +1,54 @@
 {
-  "mod1": "https://github.com/hmhtech/HMMODS/blob/main/playcurlNEXT.zip",
-  "mod2": "https://example.com/hammas.zip"
+  "licenses": [
+    {
+      "key": "HMH-SZ23L-HDUQR-YHHMC",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-YT1WA-EXRHN-H8R87",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-DVNY9-3C84T-CRFEH",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-5I28G-E4UDI-DF8VT",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-3IQI6-YVSFX-QNCFM",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-XKW2V-RD4S0-E0S1R",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-2G3AL-CC0MX-SKLC2",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-HDUQ2-X9TD6-H2JTP",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-AG0CB-JEEOO-LWU8O",
+      "status": "active",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "HMH-KE4RP-NP1VJ-VGRKK",
+      "status": "active",
+      "expires": "2025-12-31"
+    }
+  ]
 }
